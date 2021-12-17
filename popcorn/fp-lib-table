@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "popcorn")(type "KiCad")(uri "/Users/exsor/Downloads/popcorn-main/popcorn.pretty")(options "")(descr ""))
+  (lib (name "popcorn-main")(type "KiCad")(uri "/Users/exsor/Downloads/popcorn-main.pretty")(options "")(descr ""))
+)
